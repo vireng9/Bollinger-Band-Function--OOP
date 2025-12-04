@@ -1,5 +1,5 @@
 # Bollinger-Band-Function --- Object Oriented Programming
-Note - Code files are private and can be shared upon request.
+Note - Code files can be shared upon request.
 
 ## **Overview**
 This repository implements Bollinger Bands — a popular technical analysis tool — using Object-Oriented Programming (OOP) principles in Python. The project is designed to be modular, reusable, and extensible for quantitative finance applications.
